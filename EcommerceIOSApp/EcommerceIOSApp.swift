@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct EcommerceIOSAppApp: App {
+struct EcommerceIOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppTabView()
         }
     }
 }
