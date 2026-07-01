@@ -13,10 +13,9 @@ A SwiftUI iOS app for browsing a food/appetizer menu, viewing nutritional detail
 
 ## 📱 Screenshots
 
-<!-- Add your screenshots below. Example: -->
-<!-- | Home | Details | Order | Account |
+| Home | Details | Order | Account |
 |------|---------|-------|---------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Order](screenshots/order.png) | ![Account](screenshots/account.png) | -->
+| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Order](screenshots/order.png) | ![Account](screenshots/account.png) |
 
 ## 🛠️ Tech Stack
 
