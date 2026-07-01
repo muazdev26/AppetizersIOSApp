@@ -29,8 +29,7 @@ extension String {
                     ("0"..."9")
                 )
             }
-            "\\"
-            /./
+            "."
             Repeat(2...64) {
                 CharacterClass(
                     ("A"..."Z"),
