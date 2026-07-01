@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		029BE16D2E530FB30088D416 /* EcommerceIOSApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EcommerceIOSApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		029BE16D2E530FB30088D416 /* AppetizersApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppetizersApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		029BE16F2E530FB30088D416 /* EcommerceIOSApp */ = {
+		029BE16F2E530FB30088D416 /* AppetizersApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = EcommerceIOSApp;
+			path = AppetizersApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		029BE1642E530FB30088D416 = {
 			isa = PBXGroup;
 			children = (
-				029BE16F2E530FB30088D416 /* EcommerceIOSApp */,
+				029BE16F2E530FB30088D416 /* AppetizersApp */,
 				029BE16E2E530FB30088D416 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		029BE16E2E530FB30088D416 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				029BE16D2E530FB30088D416 /* EcommerceIOSApp.app */,
+				029BE16D2E530FB30088D416 /* AppetizersApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		029BE16C2E530FB30088D416 /* EcommerceIOSApp */ = {
+		029BE16C2E530FB30088D416 /* AppetizersApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 029BE1782E530FB40088D416 /* Build configuration list for PBXNativeTarget "EcommerceIOSApp" */;
+			buildConfigurationList = 029BE1782E530FB40088D416 /* Build configuration list for PBXNativeTarget "AppetizersApp" */;
 			buildPhases = (
 				029BE1692E530FB30088D416 /* Sources */,
 				029BE16A2E530FB30088D416 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				029BE16F2E530FB30088D416 /* EcommerceIOSApp */,
+				029BE16F2E530FB30088D416 /* AppetizersApp */,
 			);
-			name = EcommerceIOSApp;
+			name = AppetizersApp;
 			packageProductDependencies = (
 			);
 			productName = EcommerceIOSApp;
-			productReference = 029BE16D2E530FB30088D416 /* EcommerceIOSApp.app */;
+			productReference = 029BE16D2E530FB30088D416 /* AppetizersApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 029BE1682E530FB30088D416 /* Build configuration list for PBXProject "EcommerceIOSApp" */;
+			buildConfigurationList = 029BE1682E530FB30088D416 /* Build configuration list for PBXProject "AppetizersApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				029BE16C2E530FB30088D416 /* EcommerceIOSApp */,
+				029BE16C2E530FB30088D416 /* AppetizersApp */,
 			);
 		};
 /* End PBXProject section */
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		029BE1682E530FB30088D416 /* Build configuration list for PBXProject "EcommerceIOSApp" */ = {
+		029BE1682E530FB30088D416 /* Build configuration list for PBXProject "AppetizersApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				029BE1762E530FB40088D416 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		029BE1782E530FB40088D416 /* Build configuration list for PBXNativeTarget "EcommerceIOSApp" */ = {
+		029BE1782E530FB40088D416 /* Build configuration list for PBXNativeTarget "AppetizersApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				029BE1792E530FB40088D416 /* Debug */,
